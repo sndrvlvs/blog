@@ -16,6 +16,7 @@ group :assets do
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
   gem 'therubyracer'
   gem 'thin'
+  #täitsa lõpp kui napaks võib üks keskkond olla
 
   gem 'uglifier', '>= 1.0.3'
 end
